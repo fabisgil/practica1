@@ -1,0 +1,28 @@
+/* style.css */
+body {
+    background-color: #d4ff00; /* verde limón */
+    font-family: Arial, sans-serif;
+}
+
+.contenedor {
+    margin: 50px auto;
+    padding: 20px;
+    width: 50%;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #4CAF50;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 5px 0;
+}
+
